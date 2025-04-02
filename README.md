@@ -1,5 +1,6 @@
 Application To-Do List React
 Une application simple de liste de tâches construite avec React, permettant d'ajouter, marquer comme terminées et supprimer des tâches.
+
 Fonctionnalités
 
 Ajouter de nouvelles tâches
@@ -18,7 +19,7 @@ LocalStorage pour la persistance des données
 Installation
 
 Clonez ce dépôt
-Copiergit clone https://github.com/Hakima-B/todolist-app.git
+git clone https://github.com/Hakima-B/todolist-app.git
 
 Naviguez dans le dossier du projet
 
